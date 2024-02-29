@@ -1,0 +1,15 @@
+/Users/nateappleby/RiderProjects/Messenger/bin/Debug/net7.0/Messenger
+/Users/nateappleby/RiderProjects/Messenger/bin/Debug/net7.0/Messenger.deps.json
+/Users/nateappleby/RiderProjects/Messenger/bin/Debug/net7.0/Messenger.runtimeconfig.json
+/Users/nateappleby/RiderProjects/Messenger/bin/Debug/net7.0/Messenger.dll
+/Users/nateappleby/RiderProjects/Messenger/bin/Debug/net7.0/Messenger.pdb
+/Users/nateappleby/RiderProjects/Messenger/obj/Debug/net7.0/Messenger.csproj.AssemblyReference.cache
+/Users/nateappleby/RiderProjects/Messenger/obj/Debug/net7.0/Messenger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nateappleby/RiderProjects/Messenger/obj/Debug/net7.0/Messenger.AssemblyInfoInputs.cache
+/Users/nateappleby/RiderProjects/Messenger/obj/Debug/net7.0/Messenger.AssemblyInfo.cs
+/Users/nateappleby/RiderProjects/Messenger/obj/Debug/net7.0/Messenger.csproj.CoreCompileInputs.cache
+/Users/nateappleby/RiderProjects/Messenger/obj/Debug/net7.0/Messenger.dll
+/Users/nateappleby/RiderProjects/Messenger/obj/Debug/net7.0/refint/Messenger.dll
+/Users/nateappleby/RiderProjects/Messenger/obj/Debug/net7.0/Messenger.pdb
+/Users/nateappleby/RiderProjects/Messenger/obj/Debug/net7.0/Messenger.genruntimeconfig.cache
+/Users/nateappleby/RiderProjects/Messenger/obj/Debug/net7.0/ref/Messenger.dll
